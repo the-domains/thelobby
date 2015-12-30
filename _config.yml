@@ -1,8 +1,6 @@
-layout_spectrum: 0
 color:
   saturation: 0.3010753
   brandStrength: 0.5745092
-  lightness: 0.5537634
   rhythmicContrast: 0.6119992
   brandColors:
     - '#ADD7F6'
@@ -10,5 +8,19 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+  lightness: 0.5537634
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0
 typography_spectrum: 0.4354839
 name: TheLobby
