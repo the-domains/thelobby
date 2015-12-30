@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.3010753
+  brandStrength: 0.5745092
+  lightness: 0.5537634
+  rhythmicContrast: 0.6119992
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+typography_spectrum: 0.4354839
+name: TheLobby
